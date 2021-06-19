@@ -1,0 +1,13 @@
+{
+	"Id": "ViciousMockery",
+	"DisplayName": "ViciousMockery",
+	"Author": "RealBazou",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "ViciousMockery.dll",
+	"EntryMethod": "ViciousMockery.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/RealBazou/ViciousMockery/main/ViciousMockery/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/119"
+}
